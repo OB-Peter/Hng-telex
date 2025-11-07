@@ -16,7 +16,7 @@ export const moodMusicWorkflow = {
       typeVersion: 1,
       position: [816, -112],
       parameters: {},
-      "url": "https://your-agent-url.com/a2a/agent/moodMusicAgent"
+      "url": "https://musicrecommed.mastra.cloud/a2a/agent/moodMusicAgent"
     },
   ],
 };
