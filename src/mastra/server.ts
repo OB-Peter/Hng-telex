@@ -86,8 +86,6 @@ app.post('/a2a/agent/moodMusicAgent', async (req: Request, res: Response): Promi
       }
     ];
 
-
-
     // Build conversation history
     const history: Record<string, any>[] = [
       ...messagesList.map((msg: Record<string, any>) => ({
